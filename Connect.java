@@ -1,4 +1,5 @@
 
+
 import java.io.File;
 import java.io.PrintWriter;
 import java.sql.Connection;
@@ -95,6 +96,11 @@ public class Connect {
                   writer.printf("\nTitlul : " 
                      + eElement
                      .getElementsByTagName("Titlul")
+                     .item(0)
+                     .getTextContent());
+                   writer.printf("\nAutor : " 
+                     + eElement
+                     .getElementsByTagName("Autor")
                      .item(0)
                      .getTextContent());
                   writer.printf("\nCategoria : " 
