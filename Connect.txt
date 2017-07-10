@@ -1,0 +1,62 @@
+Root element :biblioteca
+----------------------------
+
+Current Element :biblioteca
+Titlul : Inainte sa te cunosc
+Categoria : Romantica
+Editura : LITERA
+Numar_Raft : 5
+
+Current Element :biblioteca
+Titlul : Inainte sa te cunosc
+Categoria : Romantica
+Editura : LITERA
+Numar_Raft : 5
+
+Current Element :biblioteca
+Titlul : Micul Print
+Categoria : Literatura Universala
+Editura : REGIS
+Numar_Raft : 50
+
+Current Element :biblioteca
+Titlul : Povesti cu talc
+Categoria : Literatura Romana
+Editura : REGIS
+Numar_Raft : 143
+
+Current Element :biblioteca
+Titlul : Maitreyi 
+Categoria : Literatura Romana
+Editura : TANA
+Numar_Raft : 10
+
+Current Element :biblioteca
+Titlul : Povestea Faridei 
+Categoria : Memorii Jurnal
+Editura : RAO
+Numar_Raft : 2
+
+Current Element :biblioteca
+Titlul : Amintiri din copilarie
+Categoria : Literatura Romana
+Editura : REGIS
+Numar_Raft : 54
+
+Current Element :biblioteca
+Titlul : Noul Cod Rutier 2017 pe intelesul tuturor 
+Categoria :  Legislatie Rutiera
+Editura : TEOCORA
+Numar_Raft : 23
+
+Current Element :biblioteca
+Titlul : Baltagul
+Categoria : Literatura Romana
+Editura : MIHAIL SADOVEANU
+Numar_Raft : 2
+
+Current Element :biblioteca
+Titlul : Poezii
+Categoria : Literatura Romana
+Editura : REGIS
+Numar_Raft : 4
